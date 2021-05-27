@@ -1,4 +1,4 @@
-body{color:green;
+body{
   backgroud-color:pink;
 }
 div{width: 400px;
@@ -7,3 +7,4 @@ div{width: 400px;
   margin: 20px;
   border: 2px solid blue;
 }
+p{color:green;}
